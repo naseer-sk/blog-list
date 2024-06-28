@@ -1,0 +1,26 @@
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  height: 100px;
+  width: 130px;
+  border-radius: 50px;
+}
+
+.profile-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+  font-size: 32px;
+}
+
+.profile-role {
+  font-family: 'Roboto';
+  font-weight: light;
+  color: #616e7c;
+  font-size: 22px;
+}
